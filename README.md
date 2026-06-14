@@ -1,4 +1,4 @@
-# Collaborative Insight
+# Decision Bridge
 
 AI-powered decision intelligence for engineering organisations. Connects expert knowledge to decision makers through semantic search, language translation, and automated knowledge capture.
 
